@@ -1,0 +1,43 @@
+html{
+  background-color: #6BD9C3;
+}
+
+input{
+  border-radius: 7%;
+  border-color: black;
+  box-shadow: 4px 4px grey;
+}
+
+#manipulation{
+  margin-left: 40%;
+  margin-top: 10%;
+}
+
+button{
+  background-color: white;
+  font-color:black;
+  border-color: blue;
+  padding : 5px 10px;
+  margin: 10px;
+  border-radius: 15%;
+
+}
+
+#substract{
+  padding: 5px 11px;
+}
+
+button:hover{
+  background-color: yellow;
+  cursor: pointer;
+  box-shadow: 4px 4px grey;
+}
+
+p{
+  margin-right: 250px;
+  font-size: 150%;
+}
+
+label{
+  text-align: center;
+}
